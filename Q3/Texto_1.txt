@@ -1,0 +1,17 @@
+Esse texto é meramente 
+
+
+
+ilustrativo com o
+
+
+objetivo de ser usado
+
+com o script edita_linhas.sh que
+
+
+tem como função apagar e contar
+
+
+
+linhas em branco
